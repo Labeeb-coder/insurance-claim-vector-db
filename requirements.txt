@@ -1,0 +1,7 @@
+streamlit
+langchain-community
+chromadb
+sentence-transformers
+pdfplumber
+torch       # Required for Hugging Face
+transformers
